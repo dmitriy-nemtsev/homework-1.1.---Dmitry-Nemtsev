@@ -13,7 +13,7 @@
 
 ![markdown](img/1.1 homework markdown.png)
 ##### terraform
--![Терраформ](../img/1.1 homework terraform.png)
+![Терраформ](/img/1.1 homework terraform.png)
 ##### yaml
 
 ![Yaml](img/1.1 homework yaml.png)
