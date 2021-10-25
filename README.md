@@ -9,19 +9,19 @@
 
 
 ### jsonnet
-![Jsonnet](./img/1.1 homework jsonnet.png)
+![Jsonnet](./img/jsonnet.png)
 
 
 ##### markdown
-![markdown](./img/1.1 homework markdown.png)
+![markdown](./img/markdown.png)
 
 
 ##### terraform
-![Терраформ](./img/1.1 homework terraform.png)
+![Терраформ](./img/terraform.png)
 
 
 ##### yaml
-![Yaml](./img/1.1 homework yaml.png)
+![Yaml](./img/yaml.png)
 
 ##Задание 2
 
