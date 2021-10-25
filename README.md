@@ -3,25 +3,21 @@
 Выполнил Немцев Дмитрий
 
 
-##Задание 1
+## Задание 1
 ### Bash
 ![123](./img/bash.png)
-
 
 ### jsonnet
 ![Jsonnet](./img/jsonnet.png)
 
-
-##### markdown
+### markdown
 ![markdown](./img/markdown.png)
 
-
-##### terraform
+### terraform
 ![Терраформ](./img/terraform.png)
 
-
-##### yaml
+### yaml
 ![Yaml](./img/yaml.png)
 
-##Задание 2
+## Задание 2
 
