@@ -5,18 +5,18 @@
 ##Задание 1
 ### Bash
 
-![](img/1.1 homework bash.png)
+![123](./img/1.1 homework bash.png)
 ### jsonnet
 
-![Jsonnet](img/1.1 homework jsonnet.png)
+![Jsonnet](./img/1.1 homework jsonnet.png)
 ##### markdown
 
-![markdown](img/1.1 homework markdown.png)
+![markdown](./img/1.1 homework markdown.png)
 ##### terraform
-![Терраформ](/img/1.1 homework terraform.png)
+![Терраформ](./img/1.1 homework terraform.png)
 ##### yaml
 
-![Yaml](img/1.1 homework yaml.png)
+![Yaml](./img/1.1 homework yaml.png)
 
 ##Задание 2
 
