@@ -5,7 +5,7 @@
 ##Задание 1
 ### Bash
 
-![bahs](img/1.1 homework bash.png)
+![](img/1.1 homework bash.png)
 ### jsonnet
 
 ![Jsonnet](img/1.1 homework jsonnet.png)
